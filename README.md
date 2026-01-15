@@ -4,8 +4,7 @@
 This is a random interactive system that simulates origami.
 
 ## How to Run
-1. Download or clone this repository
-2. Open `index.html` in a web browser (Chrome recommended)
+Download or clone this repository
 
 ## Interaction
 - Visual elements are generated randomly
